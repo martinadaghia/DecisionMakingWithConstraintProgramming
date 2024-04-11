@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "28.dzn",
+        "29.dzn",
+        "30.dzn",
+        "n-queens.mzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "28.dzn",
+        "29.dzn",
+        "30.dzn",
+        "n-queens.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
